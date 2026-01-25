@@ -54,7 +54,7 @@ skins/
 
 1. **Download Rose**: Get the latest installer from our [releases page](https://github.com/Alban1911/Rose/releases/latest)
 2. **Install the Tool**: Follow the installation instructions
-3. **Apply Skins**: Use Rose to apply any skin in-game
+3. **Apply Skins**: Use [Rose](https://github.com/Alban1911/Rose) to apply any skin in-game
 
 ### Contributing
 
@@ -64,13 +64,21 @@ LeagueSkins is open source! Contributions are welcome:
 - Submit pull requests for improvements
 - Join our [Discord](https://discord.com/invite/cDepnwVS8Z) for discussions
 
-## ⚖️ Legal Notice
+## Legal Disclaimer
 
-This project is for educational and personal use only. Please respect Riot Games' intellectual property rights and terms of service. Rose and this asset collection are not affiliated with or endorsed by Riot Games.
+**Important**: This project is not endorsed by Riot Games and does not represent the views or opinions of Riot Games or any of its affiliates. Riot Games and all related properties are trademarks or registered trademarks of Riot Games, Inc.
 
-## License
+The use of custom skin tools may violate Riot Games' Terms of Service. Users proceed at their own risk.
 
-This repository is open source. The skin assets are property of Riot Games and are used under fair use for educational purposes.
+Custom skins are allowed under Riot's terms of service and do not trigger detection as long as you are not discussing or advertising the use of the skins within the game.
+
+## Support
+
+If you enjoy Rose and want to support its development:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roseapp)
+
+Your support helps keep the project alive and motivates continued development!
 
 ---
 
